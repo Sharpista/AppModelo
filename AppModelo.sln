@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARX.UI.Site", "src\ARX.UI.Site\ARX.UI.Site.csproj", "{2BD9FC4E-7672-47B1-955F-9522FD2D1740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD9FC4E-7672-47B1-955F-9522FD2D1740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD9FC4E-7672-47B1-955F-9522FD2D1740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD9FC4E-7672-47B1-955F-9522FD2D1740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD9FC4E-7672-47B1-955F-9522FD2D1740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5896C597-97B8-4808-979B-F502BDDA8801}
+	EndGlobalSection
+EndGlobal
